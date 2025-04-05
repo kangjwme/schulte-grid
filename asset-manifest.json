@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/schulte-grid/static/css/main.76aa59cd.css",
+    "main.js": "/schulte-grid/static/js/main.4d532fbb.js",
+    "static/js/453.29bd0612.chunk.js": "/schulte-grid/static/js/453.29bd0612.chunk.js",
+    "index.html": "/schulte-grid/index.html",
+    "main.76aa59cd.css.map": "/schulte-grid/static/css/main.76aa59cd.css.map",
+    "main.4d532fbb.js.map": "/schulte-grid/static/js/main.4d532fbb.js.map",
+    "453.29bd0612.chunk.js.map": "/schulte-grid/static/js/453.29bd0612.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76aa59cd.css",
+    "static/js/main.4d532fbb.js"
+  ]
+}
